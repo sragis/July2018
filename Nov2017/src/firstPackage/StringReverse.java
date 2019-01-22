@@ -2,6 +2,7 @@ package firstPackage;
 
 import java.util.Scanner;
 
+//ways to handle strings in java
 public class StringReverse {
 
 	public static void main(String[] args) {
